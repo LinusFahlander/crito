@@ -424,18 +424,18 @@ footer .footer-second .social-media-icon a:hover {
   text-align: center;
   width: 50%;
 }
-.features .container .info-cards {
+.features .container .info-cards .umb-block-list {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
-.features .container .info-cards .content-box {
+.features .container .info-cards .umb-block-list .content-box {
   margin-bottom: 50px;
 }
-.features .container .info-cards .content-box i {
+.features .container .info-cards .umb-block-list .content-box i {
   font-size: 30px;
   margin-bottom: 20px;
 }
-.features .container .info-cards .content-box h2 {
+.features .container .info-cards .umb-block-list .content-box h2 {
   font-family: "DM SANS", sans-serif;
   font-size: 22px;
   font-weight: 700;
@@ -511,31 +511,31 @@ footer .footer-second .social-media-icon a:hover {
   width: 40%;
   margin-bottom: 40px;
 }
-.our-services .container .info-cards {
+.our-services .container .info-cards .umb-block-list {
   display: flex;
   justify-content: space-between;
 }
-.our-services .container .info-cards .card {
+.our-services .container .info-cards .umb-block-list .card {
   width: 308px;
   height: 333px;
   padding: 20px;
   justify-content: center;
 }
-.our-services .container .info-cards .card h2 {
+.our-services .container .info-cards .umb-block-list .card h2 {
   font-family: "DM SANS", sans-serif;
   font-size: 22px;
   font-weight: 700;
   color: #191919;
 }
-.our-services .container .info-cards .card a i {
+.our-services .container .info-cards .umb-block-list .card a i {
   font-size: 50px;
   color: #191919;
   float: right;
 }
-.our-services .container .info-cards .card:hover {
+.our-services .container .info-cards .umb-block-list .card:hover {
   background-color: #F9D783;
 }
-.our-services .container .info-cards .card:hover i {
+.our-services .container .info-cards .umb-block-list .card:hover i {
   color: #F0EFE9;
 }
 .our-services .container .btn-transparent {
